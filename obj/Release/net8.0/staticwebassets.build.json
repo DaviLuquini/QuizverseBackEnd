@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QwxgQ1U55mGMKr0HQhCBp4vLEybZp3UnD6lGBr5+2Lo=",
+  "Source": "QuizVerse.Api",
+  "BasePath": "_content/QuizVerse.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
